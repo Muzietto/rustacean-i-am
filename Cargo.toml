@@ -1,0 +1,6 @@
+[package]
+name = "testss"
+version = "0.1.0"
+authors = ["Marco Faustinelli (Muzietto) <marco_faustinelli@yahoo.com>"]
+
+[dependencies]
